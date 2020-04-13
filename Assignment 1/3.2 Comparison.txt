@@ -1,0 +1,3 @@
+For total production, the range of values tended to fall within the same distribution of the figure. 
+For Average waiting time in queue, many of the values were exactly the same. 
+I saw similar trends for average total time in system, time average no. parts in queue and drill press utilization.
